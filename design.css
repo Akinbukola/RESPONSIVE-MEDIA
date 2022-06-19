@@ -78,3 +78,11 @@ input{
 button{
     background-color: Grayish Blue: hsl(246, 25%, 77%);
 }
+@media screen and (max-width: 1440px){
+    .container{flex-direction: column}
+
+    
+}
+ @media screen and (max-width:375px){
+    .box flex{flex-direction : column}
+ }
